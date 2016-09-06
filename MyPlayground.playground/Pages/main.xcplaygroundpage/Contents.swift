@@ -5,9 +5,10 @@
  
  ### Readings associated with this lab
  
- * [MathBool Statements](https://github.com/learn-co-curriculum/swift-MathBool-readme)
+ * [Switch Statements]https://github.com/learn-co-curriculum/swift-switchStatement-readme)
+ * [Booleans and Operators](https://github.com/learn-co-curriculum/swift-booleans-readme)
+ * [Conditionals](https://github.com/learn-co-curriculum/swift-conditionals-readme)
 
- */
 
 
 // ❤️
