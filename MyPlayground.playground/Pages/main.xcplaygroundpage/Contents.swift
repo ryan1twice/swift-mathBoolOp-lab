@@ -8,10 +8,7 @@
  * [Switch Statements]https://github.com/learn-co-curriculum/swift-switchStatement-readme)
  * [Booleans and Operators](https://github.com/learn-co-curriculum/swift-booleans-readme)
  * [Conditionals](https://github.com/learn-co-curriculum/swift-conditionals-readme)
-
-
-
-// ❤️
+ 
 
 
 /*: Question 1
@@ -97,13 +94,4 @@
 */
 // write your code here
 
-
-
-
-
-/*:
- Checkout the solution branch - git co solution or git checkout solution and then scroll back down to this very spot to see a link that directs you to the solutions to the above questions.
- */
-
-
-
+*/
