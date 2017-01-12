@@ -8,7 +8,7 @@
 
 ![](http://i.imgur.com/WVy8phk.png)
 
-Open up the `MathBoolOp.xcodeproj` file. Once in Xcode, navigate to the `MathMethods.swift` file. This is where you will be writing your code.
+Open up the `MathBoolOp.xcodeproj` file. Once in Xcode, navigate to the `MathMethods.swift` file. This is where you will be writing your code. This lab includes tests. In order to run the tests, press command + u (within Xcode).
 
 **1.** Create a function, `add(a:b:)` which takes in two arguments. The parameter names should be `a` and `b` and both should be of type `Double`. This function should also return a `Double` value. In your implementation of this function, you should return back the result of adding both `a` and `b` together.
 
