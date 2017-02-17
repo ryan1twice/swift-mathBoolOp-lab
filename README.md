@@ -33,4 +33,6 @@ Question: Can you make an equality check (==) with the following two values. 6.1
 
 
 
-<a href='https://learn.co/lessons/MathBoolOpLab' data-visibility='hidden'>View this lesson on Learn.co</a>
+<a href='https://learn.co/tracks/introduction-to-swift-and-ios/introduction-to-swift-and-ios/basics/playgrounds-lab-booleans-and-operators' data-visibility='hidden'>View this lesson on Learn.co</a>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/swift-mathBoolOp-lab'>Math, Bool, Conditional Lab</a> on Learn.co and start learning to code for free.</p>
